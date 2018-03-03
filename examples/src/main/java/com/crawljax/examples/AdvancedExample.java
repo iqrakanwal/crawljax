@@ -1,8 +1,6 @@
 package com.crawljax.examples;
-
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
-
 import com.crawljax.browser.EmbeddedBrowser.BrowserType;
 import com.crawljax.core.CrawljaxRunner;
 import com.crawljax.core.configuration.BrowserConfiguration;
